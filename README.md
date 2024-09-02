@@ -1,5 +1,5 @@
-<H3>Enter Name</H3>
-<H3>Enter Register No.</H3>
+<H3>Name:SVARAM R</H3>
+<H3>Register No:212222100050</H3>
 <H3>Experiment 2</H3>
 <H3>Date</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
