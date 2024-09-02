@@ -1,4 +1,4 @@
-<H3>Name:SVARAM R</H3>
+<H3>Name:SIVARAM R</H3>
 <H3>Register No:212222100050</H3>
 <H3>Experiment 2</H3>
 <H3>Date:2/9/2024</H3>
