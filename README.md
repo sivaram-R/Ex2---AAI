@@ -1,7 +1,7 @@
 <H3>Name:SIVARAM R</H3>
 <H3>Register No:212222100050</H3>
 <H3>Experiment 2</H3>
-<H3>Date:2/9/2024</H3>
+<H3>Date:</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
